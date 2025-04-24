@@ -1,0 +1,7 @@
+python-dotenv
+telegram
+python-telegram-bot
+instagrapi
+requests
+beautifulsoup4
+SQLAlchemy
